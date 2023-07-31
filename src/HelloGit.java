@@ -4,5 +4,6 @@ public class HelloGit {
 		System.out.println("22222222222222222222");
 		System.out.println("33333333333333333333");
 		System.err.println("깃허브에 추가하는 테스트 문구");
+		System.out.println("집에서 java_basic commit");
 	}
 }
