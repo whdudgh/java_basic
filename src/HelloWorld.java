@@ -6,6 +6,7 @@ class HelloWorld {
 		System.out.println(3.14);
 		System.out.println('남');
 		System.out.println(true);
+		System.out.println("깃 테스트를 위한 ㅋ드 추가.....");
 
 	}
 }
